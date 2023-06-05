@@ -6,6 +6,6 @@
 
 
 ## Find me around the web 🌍
-- <a href="google.com" target="_blank">Portfolio</a> 
+- <a href="google.com" target="_blank">Portfolio</a> <img src="circle-user-regular.svg" height="15px" width="auto">
 - <a href="instagram.com" target="_blank">Instagram</a> <img src="instagram.svg" height="15px" width="auto">
-- <a href="facebook.com" target="_blank">Facebook</a> 
+- <a href="facebook.com" target="_blank">Facebook</a>  <img src="facebook.svg" height="15px" width="auto">
