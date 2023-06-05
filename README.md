@@ -1,5 +1,5 @@
 # Hi, I'm Krystian 👋
-<img src="image.jpg" alt="alt" width="1200" height="400">
+<img src="image.jpg" alt="alt">
 
 
 ⭐Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis dui eget lectus laoreet accumsan ut ut velit. Nam sodales sit amet leo in malesuada. Praesent pulvinar odio tempor enim placerat posuere. In massa ligula, pretium vel mi at, venenatis maximus massa. Maecenas vitae felis efficitur, pharetra sem ullamcorper, pulvinar est. Suspendisse luctus dolor ante, et tristique odio molestie eu. Donec porta efficitur nisi.⭐
